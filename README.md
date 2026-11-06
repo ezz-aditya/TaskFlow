@@ -53,6 +53,15 @@ cd taskflow/client
 npm install
 npm run dev
 ```
+## 🌐 Deployment Links
+
+- **Frontend (Vercel):** https://task-flow-gules-iota.vercel.app/
+- **Backend API (Render):** https://taskflow-344s.onrender.com
+
+## 📦 Repository
+
+- **GitHub:** https://github.com/ezz-aditya/TaskFlow
+
 
 ## 👨‍💻 Author
 Aditya Dev
